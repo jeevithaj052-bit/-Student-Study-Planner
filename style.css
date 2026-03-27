@@ -1,0 +1,57 @@
+body{
+font-family: Arial;
+background:#f2f2f2;
+text-align:center;
+}
+
+h1{
+color:#333;
+}
+
+.planner{
+background:white;
+width:350px;
+margin:auto;
+padding:20px;
+border-radius:10px;
+box-shadow:0px 0px 10px gray;
+}
+
+input{
+padding:10px;
+width:70%;
+}
+
+button{
+padding:10px;
+background:#4CAF50;
+color:white;
+border:none;
+cursor:pointer;
+margin-left:5px;
+}
+
+li{
+margin:10px;
+padding:10px;
+background:#eee;
+list-style:none;
+cursor:pointer;
+}
+
+.completed{
+text-decoration: line-through;
+color:gray;
+}
+
+.links{
+margin-top:30px;
+}
+
+.links a{
+text-decoration:none;
+background:#2196F3;
+color:white;
+padding:10px 15px;
+border-radius:5px;
+}
