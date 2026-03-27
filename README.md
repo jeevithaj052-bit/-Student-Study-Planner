@@ -76,7 +76,7 @@ This project helps students:
 
 👨‍💻 Author
 
-Developed by Your Name
+Developed by Jeevitha M
 
 ---
 
